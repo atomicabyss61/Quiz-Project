@@ -1,0 +1,8 @@
+.home-container {
+  background-color: lightblue;
+  text-align: center;
+}
+
+.home-container h2 {
+  padding: 20px;
+}

@@ -1,0 +1,65 @@
+.QuizMain-container {
+  position: relative;
+  background-color: lightblue;
+}
+
+.QuizMain-container link {
+  text-decoration: none;
+}
+
+.QuizMain-container h1 {
+  text-align: center;
+  padding: 10px;
+}
+
+.Quiz-Details p,
+ul,
+h2 {
+  position: relative;
+  left: 20px;
+  padding: 8px;
+}
+
+.QuizMain-buttons {
+  position: relative;
+  left: 5%;
+}
+
+/* .QuizMain-buttons button {
+  position: relative;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 15px;
+  color: black;
+  margin-right: 20px;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+} */
+
+.btn-group:first-child {
+  float: right;
+}
+
+.card {
+  background-color: #3AAFA9 !important;
+}
+
+.btn-group button {
+  background-color: #3AAFA9;
+}
+
+#quiz-main-card {
+  left: 20%;
+  width: 60%;
+  margin-top: 35px;
+}
+
+#quiz-main-card-body:last-child button {
+  float: right;
+}
+
+.main-back-button-div button {
+  position: relative;
+  left: 20%;
+  margin-top: 20px;
+}

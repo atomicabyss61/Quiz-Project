@@ -1,0 +1,86 @@
+.QuizMake-container {
+  background-color: lightblue;
+  position: relative;
+}
+
+.QuizMake-container h1 {
+  position: relative;
+  text-align: center;
+  padding: 20px;
+
+}
+
+/* .Question-card {
+  position: relative;
+  width: 80%;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+  margin-top: 20px;
+  left: 10%;
+  border-radius: 20px;
+  padding: 20px;
+} */
+
+.Question-card {
+  position: relative;
+  display: block;
+}
+
+.Question-card ul {
+  position: relative;
+  width: 80%;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+  margin-top: 20px;
+  left: 10%;
+  border-radius: 20px;
+  padding: 20px;
+  display: block;
+}
+
+.Question-card label {
+  width: 50%;
+  padding: 10px;
+}
+
+/* 
+.Question-card input {
+  width: 100px;
+} */
+
+
+.submit-container {
+  height: 20vh;
+}
+
+.submit-container button {
+  border-radius: 15px;
+  position: relative;
+  width: 10%;
+  margin-top: 20px;
+  color: white;
+  left: 10%;
+}
+
+#quiz-make-card-text {
+  left: 15%;
+  width: 70%;
+  background-color: #3AAFA9;
+  /* background-color: lightblue; */
+  margin-top: 20px;
+}
+
+#quiz-make-card-header {
+  background-color: lightblue;
+}
+
+#quiz-make-card-body {
+  background-color: #3AAFA9;
+}
+
+#quiz-make-nav {
+  background-color: lightblue;
+}
+
+.make-back-button-div {
+  padding-left: 15%;
+  margin-top: 20px;
+}

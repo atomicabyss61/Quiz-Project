@@ -1,0 +1,21 @@
+.auth-form-container {
+  background-color: #a1d8d5;
+}
+
+.auth-form-container {
+  background-color: #a1d8d5;
+  height: 100vh;
+  padding-left: 35%;
+  padding-right: 35%;
+  padding-top: 4%;
+}
+
+#register-card {
+  padding: 20px;
+}
+
+#register-card-header h1 {
+  font-weight: bold;
+  text-align: center;
+  color: #17252A
+}

@@ -1,0 +1,21 @@
+.assign-container {
+  background-color: lightblue;
+}
+
+#assign-card {
+  left: 30%;
+  width: 40%;
+}
+
+.assign-above {
+  height: 40px;
+}
+
+#assign-btn {
+  margin-top: 20px;
+}
+
+.assign-back-button-div {
+  margin-left: 30%;
+  margin-top: 20px;
+}

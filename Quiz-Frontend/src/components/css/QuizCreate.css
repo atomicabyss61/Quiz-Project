@@ -1,0 +1,53 @@
+.QuizCreate-container {
+  position: relative;
+  background-color: lightblue;
+}
+
+.QuizCreate-container h1 {
+  text-align: center;
+  padding: 20px;
+}
+
+/* .Quiz-form-card {
+  position: relative;
+  width: 50%;
+  box-shadow: 3px 3px 10px 6px rgba(0, 0, 0, 0.06);
+  margin-top: 20px;
+  left: 25%;
+  border-radius: 20px;
+  padding: 20px;
+} */
+
+/* .Quiz-form-card button {
+  border-radius: 15px;
+  width: 20%;
+  margin-top: 20px;
+  color: white;
+} */
+
+/* .Quiz-cancel button {
+  border-radius: 15px;
+  position: relative;
+  width: 10%;
+  margin-top: 20px;
+  color: white;
+  left: 20px;
+} */
+
+#create-card {
+  left: 30%;
+  width: 40%;
+  margin-top: 20px;
+}
+
+.create-button-container {
+  text-align: center;
+}
+
+
+
+.back-button-div {
+  /* width: 20%; */
+  padding-left: 30%;
+  margin-top: 20px;
+}
